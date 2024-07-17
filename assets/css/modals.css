@@ -1,0 +1,14 @@
+
+.custom-header {
+    flex-direction: column;
+    align-items: center;
+    background-color: #1fa365; /* Bootstrap bg-success color */
+}
+.danger-header {
+    flex-direction: column;
+    align-items: center;
+    background-color: #a33e1f; /* Bootstrap bg-danger color */
+}
+.custom-header .btn-close {
+    margin-bottom: 10px;
+}

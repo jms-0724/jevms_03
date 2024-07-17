@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.bg-color {
+    background-color: #033047;
+}
+.activate {
+    background-color: #847cc9;
+}
